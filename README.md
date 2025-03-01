@@ -1,6 +1,4 @@
-# Заголовок проекта
-
-Один абзац описания проекта находится здесь
+<h1 align=center> DLL_for_markavto </h1>
 
 ## Начало работы
 
@@ -10,30 +8,20 @@
 
 Что нужно для установки программного обеспечения и как его установить
 
-```
-Наличие <a href="https://visualstudio.microsoft.com/ru/vs/community/"> Microsoft Visual Studio 2022 Community</a>
-```
+Наличие [Microsoft Visual Studio 2022 Community](https://visualstudio.microsoft.com/ru/vs/community)
 
 ### Установка
 
-Пошаговая серия примеров, которые говорят, что вы должны запустить
-
-Скажи, какой будет шаг
+Клонирование репозитория:
 
 ```
-Приведи пример
+git init
 ```
 
-И повтори
-
 ```
-Пока не закончил
+git clone https://github.com/sedypana/REG_MARK_LIB.git
 ```
-
-Завершите пример получением некоторых данных о системе или использования их для небольшой демонстрации
 
 ## Авторы
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+![](https://img.shields.io/badge/sedypana%20-%20h?style=for-the-badge&label=MODE%20BY&labelColor=purple&color=violet&link=https%3A%2F%2Fgithub.com%2Fsedypana)
